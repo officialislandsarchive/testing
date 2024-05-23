@@ -1,0 +1,1536 @@
+..
+<html>
+    <head>
+        <title>Roblox Islands Price Guide</title>
+        <style>
+            html {
+                margin: 0;
+                padding: 0;
+            }
+
+            body {
+                margin: 0;
+            }
+
+            a,a:active {
+                color: #fff;
+                text-decoration: none;
+            }
+
+            a:visited {
+                color: #fff;
+            }
+
+            a:hover {
+                color: #fff;
+                text-decoration: underline;
+            }
+
+            body {
+                background-color: #36393f;
+                color: #fff;
+                font-family: arial;
+            }
+
+            h1 {
+                font-size: 42px;
+                margin-bottom: 6px;
+                margin-left: 40px;
+            }
+
+            h2 {
+                font-size: 20px;
+                margin-left: 40px;
+                margin-top: 40px;
+                text-transform: uppercase;
+            }
+
+            h3 {
+                font-size: 22px;
+            }
+
+            .new {
+                font-size: 12px;
+                padding-left: 12px;
+                color: lime;
+            }
+
+            .expired {
+                color: #686868;
+                font-weight: bold;
+            }
+
+            .normal {
+                font-size: 12px;
+                padding-left: 12px;
+                color: #adadad;
+            }
+
+            .old {
+                font-size: 12px;
+                padding-left: 12px;
+                color: orange;
+            }
+
+            .outofdate {
+                font-size: 12px;
+                padding-left: 12px;
+                color: red;
+            }
+
+            .timeupdated {
+                color: #828282;
+                font-size: 13px;
+                padding-top: 0px;
+                padding-bottom: 10px;
+            }
+
+            .itemId {
+                color: #828282;
+                font-size: 11px;
+            }
+
+            .itemName {
+                font-size: 16px;
+                font-weight: bold;
+                color: #ffffff;
+                height: 26px;
+            }
+
+            .itemValue {
+                font-size: 16px;
+                color: #fffb73;
+                font-weight: bold;
+            }
+
+            .cell1 {
+                width: 30px;
+                background-color: #2c2f33;
+                padding-left: 10px;
+                padding-top: 10px;
+                padding-bottom: 10px;
+            }
+
+            .cell2 {
+                width: 230px;
+                background-color: #2c2f33;
+                padding-left: 10px;
+                padding-top: 10px;
+                padding-bottom: 10px;
+            }
+
+            .cell3 {
+                width: 130px;
+                background-color: #2c2f33;
+                padding-left: 10px;
+                padding-top: 10px;
+                text-align: center;
+                padding-bottom: 10px;
+            }
+
+            .cell4 {
+                width: 420px;
+                padding-left: 10px;
+                padding-top: 10px;
+                padding-bottom: 10px;
+            }
+
+            .cellheader {
+                background-color: #fff;
+                color: #000;
+                font-weight: bold;
+            }
+
+            .cellCat {
+                background-color: #2c2f33;
+                text-align: center;
+            }
+
+            .pfp {
+                height: 24px;
+                width: 24px;
+                vertical-align: middle;
+                margin-right: 6px;
+                background-size: cover;
+                background-position: top center;
+                border-radius: 50%;
+                float: left;
+            }
+
+            li {
+                line-height: 24px;
+                margin-left: 40px;
+            }
+
+            #topbar {
+                background-color: #2c2f33;
+                position: fixed;
+                top: 0px;
+                width: 100%;
+                height: auto;
+                margin: 0 !important;
+            }
+
+            #topbar div {
+                float: left;
+                background-color: #444;
+                margin: 5px;
+                font-size: 13px;
+                padding: 14px;
+                cursor: pointer;
+                border-radius: 25px;
+            }
+
+            .currentTitle {
+                color: #fffb73;
+            }
+
+            table {
+                margin: 40px;
+            }
+
+            #topspacer {
+                height: 40px;
+            }
+
+            .about {
+                margin-left: 40px;
+                max-width: 750px;
+            }
+
+            .notes {
+                display: block;
+                font-size: 11px;
+            }
+
+            #topchart {
+                margin-left: 0px !important;
+                margin-top: 0px !important;
+                margin-bottom: 0px !important;
+                margin-right: 40px !important;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="topspacer"></div>
+        <h1>Islands Price Guide</h1>
+        <div style='float:right; max-width:300px;'>
+            <h3>SEARCH</h3>
+            <form>
+                <input type='text' name='search' id='search' maxlength='15' placeholder='item name'>
+                <input type='submit' value='go'>
+            </form>
+            <h3>MOST PRICES ADDED</h3>
+            <table id='topchart'>
+                <tr>
+                    <td class='cell1'>1713</td>
+                    <td class='cell2'>
+                        <a href='/?seller=769424210795560971'>Zeustrkbpro
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>1179</td>
+                    <td class='cell2'>
+                        <a href='/?seller=835614676796047422'>Areallysmartboy
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>615</td>
+                    <td class='cell2'>
+                        <a href='/?seller=1046847914728759317'>BeastMasterShop
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>516</td>
+                    <td class='cell2'>
+                        <a href='/?seller=847132512769146950'>guapopalako
+                    </td>
+                </tr>
+            </table>
+            <h3>VERIFIED SELLERS</h3>
+            <table id='topchart'>
+                <tr>
+                    <td class='cell1'>227</td>
+                    <td class='cell2'>
+                        <a href='/?seller=750388660435681470'>272731rooster
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>94</td>
+                    <td class='cell2'>
+                        <a href='/?seller=789243758931214336'>2k_darknessYT
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>24</td>
+                    <td class='cell2'>
+                        <a href='/?seller=1166907247612399687'>2k_darknessYT
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>140</td>
+                    <td class='cell2'>
+                        <a href='/?seller=693865887035293717'>749851
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>409</td>
+                    <td class='cell2'>
+                        <a href='/?seller=1084678673409519646'>allyearshop
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>411</td>
+                    <td class='cell2'>
+                        <a href='/?seller=386872277582479360'>Antianara3
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>1179</td>
+                    <td class='cell2'>
+                        <a href='/?seller=835614676796047422'>Areallysmartboy
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>615</td>
+                    <td class='cell2'>
+                        <a href='/?seller=1046847914728759317'>BeastMasterShop
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>148</td>
+                    <td class='cell2'>
+                        <a href='/?seller=717490247075627181'>BewwyYT
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>196</td>
+                    <td class='cell2'>
+                        <a href='/?seller=757006823113883719'>BigPurpleDinoo
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>294</td>
+                    <td class='cell2'>
+                        <a href='/?seller=845783166613848084'>farhan1111111
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>282</td>
+                    <td class='cell2'>
+                        <a href='/?seller=773499328597721148'>Gamingbeastbs
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>516</td>
+                    <td class='cell2'>
+                        <a href='/?seller=847132512769146950'>guapopalako
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>308</td>
+                    <td class='cell2'>
+                        <a href='/?seller=872754689966506004'>GummyBearzClan
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>312</td>
+                    <td class='cell2'>
+                        <a href='/?seller=861255543440277515'>LadyNeonBugatti
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>282</td>
+                    <td class='cell2'>
+                        <a href='/?seller=523948196121280514'>Max000Gas
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>129</td>
+                    <td class='cell2'>
+                        <a href='/?seller=770863178653106176'>mercadoy
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>176</td>
+                    <td class='cell2'>
+                        <a href='/?seller=987056636344545331'>MrBloxFamTV
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>363</td>
+                    <td class='cell2'>
+                        <a href='/?seller=704116275781042206'>MrsBuzz_bee
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>110</td>
+                    <td class='cell2'>
+                        <a href='/?seller=742097849512099890'>Pr0xfy
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>357</td>
+                    <td class='cell2'>
+                        <a href='/?seller=528289584048635915'>RaKennyy
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>122</td>
+                    <td class='cell2'>
+                        <a href='/?seller=692522200602771527'>ShopKeeperNYC
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>131</td>
+                    <td class='cell2'>
+                        <a href='/?seller=302258401986084865'>SiKaLiCiOuS
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>322</td>
+                    <td class='cell2'>
+                        <a href='/?seller=731335801153126500'>stupidstupid_someone
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>116</td>
+                    <td class='cell2'>
+                        <a href='/?seller=779454062868824064'>TH_PlayzXD
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>252</td>
+                    <td class='cell2'>
+                        <a href='/?seller=814561101941309530'>Violet42309
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>368</td>
+                    <td class='cell2'>
+                        <a href='/?seller=723945729290403890'>WhirlyDad22
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>441</td>
+                    <td class='cell2'>
+                        <a href='/?seller=151183900570288128'>XMrsRabbitX
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>453</td>
+                    <td class='cell2'>
+                        <a href='/?seller=978456987077586984'>ZeroStyled
+                    </td>
+                </tr>
+                <tr>
+                    <td class='cell1'>1713</td>
+                    <td class='cell2'>
+                        <a href='/?seller=769424210795560971'>Zeustrkbpro
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class='about'>
+            Price guide is maintained by sellers in the community. Seller access to guide and product additions/edits are managed by BuzzInGame (contact them on the DV Plays Discord Server: <a href='https://discord.gg/dvplays'>discord.gg/dvplays</a>
+            .) Price Guide platform created by <a href='https://youtube.com/darkvipertv' target='_new'>DV</a>
+            (DV does not set prices.) 
+        </div>
+        <h2 class='currentTitle'>COMBAT</h2>
+        <table>
+            <tr>
+                <td class='cell1 cellheader'>#</td>
+                <td class='cell2 cellheader'>Item</td>
+                <td class='cell3 cellheader'></td>
+                <td class='cell3 cellheader'>Category</td>
+            <tr>
+                <td class='cell1 itemId'>3</td>
+                <td class='cell2 itemName'>
+                    <a href='/item.php?item=3'>Ancient Longbow</a>
+                    <div class='notes'></div>
+                </td>
+                <td class='cell3 itemValue'>
+                    <a href='/item.php?item=3'>view prices</a>
+                </td>
+                <td class='cellCat itemValue'>
+                    <a href='/?category=1'>COMBAT</a>
+                <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1057</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1057'>Antler Hammer</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1057'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1056</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1056'>Antler Shield</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1056'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>2</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=2'>Aquamarine Sword</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=2'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>24</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=24'>Azarathian Longbow</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=24'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1768</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1768'>Bat Boss Token</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1768'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1148</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1148'>Bhaa Token</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1148'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>6</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=6'>Cactus Spike</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=6'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>7</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=7'>Cactus Spike Blueprint</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=7'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1665</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1665'>Candy Cane Scepter Weapon</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1665'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1862</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1862'>Cursed Grimoire</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1862'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1863</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1863'>Cursed Hammer</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1863'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>8</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=8'>Cutlass</a>
+        <div class='notes'>This is a skin of Aquamarine Sword</div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=8'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>9</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=9'>Diamond Great Sword</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=9'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>10</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=10'>Diamond War Hammer</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=10'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1095</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1095'>Frost Hammer</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1095'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1094</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1094'>Frost Sword</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1094'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>12</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=12'>Gilded Steel Hammer</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=12'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1401</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1401'>Golden Shortbow</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1401'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1472</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1472'>Granite Hammer</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1472'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1418</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1418'>Hardened Bow Limb</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1418'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1251</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1251'>Infernal Hammer</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1251'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1408</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1408'>Iron Long Arrow</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1408'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1407</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1407'>Iron Short Arrow</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1407'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1400</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1400'>Iron Shortbow</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1400'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>855</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=855'>Iron Sword</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=855'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>15</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=15'>Iron War Axe</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=15'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1681</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1681'>Jolly Dagger</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1681'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>549</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=549'>Kong's Axe</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=549'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1149</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1149'>Kor Token</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1149'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>986</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=986'>Lava Bucket</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=986'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>21</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=21'>Lightning Scepter</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=21'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1467</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1467'>Long Crossbow Bolt</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1467'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1055</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1055'>Maple Shield</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1055'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1858</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1858'>Natures Divine Longbow</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1858'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='new'></td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1738</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1738'>Noxious Stinger</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1738'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>845</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=845'>Obsidian Greatsword </a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=845'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>844</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=844'>Obsidian Hilt</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=844'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>966</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=966'>Opal Sword Hilt</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=966'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1859</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1859'>Poison Long Arrow</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1859'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='new'></td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1017</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1017'>Pumpkin Boss Token</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1017'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1021</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1021'>Pumpkin Hammer</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1021'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>16</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=16'>Rageblade</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=16'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>17</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=17'>Rageblade Blueprint</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=17'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>475</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=475'>Regen Potion</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=475'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>721</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=721'>Ruby Staff</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=721'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1283</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1283'>Ruby Sword</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1283'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1332</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1332'>Serpents Bane</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1332'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1331</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1331'>Serpents Hook</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1331'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1150</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1150'>Slime King Token</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1150'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1286</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1286'>Slime Queen Token</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1286'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1320</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1320'>Slime Queens Scepter</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1320'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>18</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=18'>Snowball</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=18'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>19</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=19'>Spellbook</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=19'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1272</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1272'>Spirit Spellbook</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1272'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>13</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=13'>Staff of Godzilla</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=13'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1410</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1410'>Steel Long Arrow</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1410'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1409</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1409'>Steel Short Arrow</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1409'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1399</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1399'>Stone Long Arrow</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1399'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>5</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=5'>Stone Short Arrow</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=5'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>856</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=856'>Stone Sword</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=856'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>476</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=476'>Strength Potion</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=476'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>828</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=828'>The Captain's Rapier</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=828'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1860</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1860'>The Divine Dao</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1860'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>961</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=961'>The Dragonslayer</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=961'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1517</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1517'>The Reapers Crossbow</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1517'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1518</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1518'>The Reapers Scythe</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1518'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>22</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=22'>Tidal Spellbook</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=22'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>23</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=23'>Tidal Spellbook Blueprint</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=23'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1758</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1758'>Toxin Potion</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1758'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1321</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1321'>Trouts Fury</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1321'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1151</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1151'>Underworld Token</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1151'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1338</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1338'>Void Potion</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1338'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1335</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1335'>Void Serpent Token</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1335'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1152</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1152'>Wizard Boss Token</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1152'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1471</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1471'>Wooden Mallet</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1471'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>4</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=4'>Wooden Shortbow</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=4'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>26</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=26'>Wooden Sword</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=26'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr>
+<tr>
+    <td class='cell1 itemId'>1453</td>
+    <td class='cell2 itemName'>
+        <a href='/item.php?item=1453'>Zombie Cletus Token</a>
+        <div class='notes'></div>
+    </td>
+    <td class='cell3 itemValue'>
+        <a href='/item.php?item=1453'>view prices</a>
+    </td>
+    <td class='cellCat itemValue'>
+        <a href='/?category=1'>COMBAT</a>
+    <td class='normal'>Out of Date (>30d)</td>
+</td></tr></table><h2>SUPPORT THE GUIDE</h2>
+<div class='about'>
+    <a href='https://discord.gg/dvplays' target='_new'>Join the DV Plays Discord</a>
+    <br>
+    <br>
+    <a href='https://youtube.com/darkvipertv' target='_new'>Subscribe to  DV Plays YouTube</a>
+    <br>
+    <br>
+    <a href='https://youtube.com/dvplays2' target='_new'>Subscribe to DV Plays 2 YouTube</a>
+    <br>
+    <br>
+    <a href='https://www.tiktok.com/@usestarcodedv' target='_new'>Follow DV on TikTok</a>
+    <br>
+    <br>
+    <a href='https://www.instagram.com/dvplays/' target='_new'>Follow DV on Instagram</a>
+    <br>
+    <br>
+    Use Star Code <b>DV</b>
+    <br>when buying Robux!
+</div>
+<div id="topbar">
+    <div>
+        <a href="/">ALL</a>
+    </div>
+    <div>
+        <a href="/?category=1">COMBAT</a>
+    </div>
+    <div>
+        <a href="/?category=2">MINERAL</a>
+    </div>
+    <div>
+        <a href="/?category=4">DECOR</a>
+    </div>
+    <div>
+        <a href="/?category=6">TOOLS</a>
+    </div>
+    <div>
+        <a href="/?category=7">CROPS</a>
+    </div>
+    <div>
+        <a href="/?category=8">FLOWERS</a>
+    </div>
+    <div>
+        <a href="/?category=9">FOOD</a>
+    </div>
+    <div>
+        <a href="/?category=10">INDUSTRIAL</a>
+    </div>
+    <div>
+        <a href="/?category=11">ANIMALS</a>
+    </div>
+    <div>
+        <a href="/?category=12">BLOCKS</a>
+    </div>
+    <div>
+        <a href="/?category=16">TOTEMS</a>
+    </div>
+    <div>
+        <a href="/?category=17">LUMBER</a>
+    </div>
+    <div>
+        <a href="/?category=18">MISC</a>
+    </div>
+</div>
+</body></html>
